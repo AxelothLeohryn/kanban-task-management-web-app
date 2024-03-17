@@ -1,0 +1,26 @@
+{
+  "name": "kanban-task-management-web-app",
+  "version": "1.0.0",
+  "description": "Kanban Task Management Fullstack Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelothLeohryn/kanban-task-management-web-app.git"
+  },
+  "keywords": [
+    "fullstack",
+    "react",
+    "nodejs",
+    "expressjs",
+    "kanban"
+  ],
+  "author": "Alejandro Sanchez Sergueev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelothLeohryn/kanban-task-management-web-app/issues"
+  },
+  "homepage": "https://github.com/AxelothLeohryn/kanban-task-management-web-app#readme"
+}
